@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20d6dbd8-5ef2-4114-a3bf-0232874f9c73" name="Default Changelist" comment="" />
+    <list default="true" id="20d6dbd8-5ef2-4114-a3bf-0232874f9c73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/routes/introduction.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/introduction.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="21BAZBdGP5aG2owHUTHQ64q19q3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,7 +35,7 @@
     <property name="com.google.cloudcode.ide_session_index" value="20211123_0007" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.17.34" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/helper" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637404160259</updated>
       <workItem from="1637404161390" duration="14849000" />
-      <workItem from="1637673996609" duration="1686000" />
+      <workItem from="1637673996609" duration="6970000" />
     </task>
     <servers />
   </component>
@@ -63,9 +69,26 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1637570396758">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="-1363" y="135" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1637680270660">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="-1363" y="135" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1637680270660" />
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1637570396758" />
+    <state x="-1180" y="261" key="FileChooserDialogImpl" timestamp="1637680329893">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="261" key="FileChooserDialogImpl/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1637680329893" />
+    <state x="-1099" y="422" key="Github.ShareDialog" timestamp="1637680351373">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1099" y="422" key="Github.ShareDialog/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1637680351373" />
+    <state x="-1246" y="244" key="Github.UntrackedFilesDialog" timestamp="1637680367220">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1246" y="244" key="Github.UntrackedFilesDialog/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1637680367220" />
+    <state x="-1304" y="240" key="run.anything.popup" timestamp="1637678162045">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="240" key="run.anything.popup/0.0.1280.680/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1637678162045" />
   </component>
 </project>
