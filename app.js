@@ -8,6 +8,9 @@ app.use(bodyParser.json());
 const introduction = require('./app/routes/introduction')
 app.use('/introduction', introduction)
 
+const user = require('./app/routes/user')
+app.use('/user', user)
+
 
 
 app.get('/', (req, res) => {
